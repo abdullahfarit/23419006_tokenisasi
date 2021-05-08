@@ -1,4 +1,4 @@
-# 23419006_tokenization
+# 23419006_TOKONISASI
 Simple Tokenization in HTML and JavaScript.
 
 # UTS Teori Bahasa Formal dan Otomata
